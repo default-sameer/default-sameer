@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flask with ReactJS. 
+- 🌱 I’m currently learning Flask.
 
 <!--
 **default-sameer/default-sameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
