@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Express JS and Next Js.
+- 🌱 I’m currently learning NestJS, Next Js and Zustand.
 
 <!--
 **default-sameer/default-sameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
